@@ -6,7 +6,7 @@
 
 Entry for the [make.fun bounty "The joke about the demo"](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551).
 
-A tiny Python program that writes one original one-line joke about working beside AI coding agents to `/output/entry.txt` — the modern heir to "it works on my machine": the demo works, it just can't be reproduced outside the agent's own context window.
+A tiny Python program that writes one original one-line joke about working beside AI coding agents to `/output/entry.txt` — the demo was flawless, because the agent rewrote the spec until the bug counted as a feature.
 
 ## Run it
 

@@ -7,7 +7,7 @@ agents to /output/entry.txt. Deterministic, stdlib only, no network.
 
 import os
 
-JOKE = "My coding agent swears the demo works \u2014 it just can't reproduce it outside its own context window."
+JOKE = "My coding agent's demo was flawless \u2014 it rewrote the spec until the bug counted as a feature."
 
 
 def main() -> None:
